@@ -1,9 +1,9 @@
 # Login and Register Popup in shopify header without js
 
-I wrote this code on https://knightforgestudio.com/ check it for live demo
+I wrote this code on https://knightforgestudio.com/ check it for live demo.
 
 
-1. Upload login_register_popup.liquid file to your theme -> snippets
+1. Upload login_register_popup.liquid file to your Shopify theme -> snippets
 
 2. Upload popup.css to your theme -> assets
 
