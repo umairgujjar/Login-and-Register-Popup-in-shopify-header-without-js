@@ -1,5 +1,6 @@
 # Login and Register Popup in shopify header without js
 
+Here's code for creating popup for login and create account/register without any javascript just using css and liquid.
 I wrote this code on https://knightforgestudio.com/ check it for live demo.
 
 
