@@ -15,7 +15,8 @@ I wrote this code on https://knightforgestudio.com/ check it for live demo
 
 4. and then add following line of code where you want login text in header.liquid file
 ```
-  <a href="{%- if customer -%}{{ routes.account_url }}{%- else -%}#open-login{%- endif -%}" class="menu-drawer__account link focus-inset h5 site-header__icon site-header__account">
+  <a href="{%- if customer -%}{{ routes.account_url }}{%- else -%}#open-login{%- endif -%}" 
+  class="menu-drawer__account link focus-inset h5 site-header__icon site-header__account">
   {% render 'icon-account' %}
   {%- liquid
     if customer
